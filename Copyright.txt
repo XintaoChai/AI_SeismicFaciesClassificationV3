@@ -1,0 +1,13 @@
+This package includes all the codes related to the work presented in "An open-source package for machine-learning-based seismic facies classification: Benchmarking experiments on the SEG 2020 open data".
+This package is free. You can redistribute it and/or modify it for research purpose only.
+For the commercial license, please contact the authors (xtchai@126.com). 
+
+If you think the codes are helpful, please cite the following related works. 
+Xintao Chai, Genyang Tang, Kai Lin, Zhe Yan, Hanming Gu, Ronghua Peng, Xiaodong Sun, and Wenjun Cao, (2021), "Deep learning for multitrace sparse-spike deconvolution" GEOPHYSICS, 86(3): V207-V218, doi: 10.1190/geo2020-0342.1.
+Xintao Chai, Genyang Tang, Shangxu Wang, Kai Lin, and Ronghua Peng (2021).  "Deep Learning for Irregularly and Regularly Missing 3-D Data Reconstruction", IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2020.3016343. 
+Xintao Chai, Genyang Tang, Shangxu Wang, Ronghua Peng, Wei Chen, and Jingnan Li (2020). "Deep Learning for Regularly Missing Data Reconstruction", IEEE Transactions on Geoscience and Remote Sensing, 58(6), 4406-4423, doi: 10.1109/TGRS.2020.2963928. 
+Xintao Chai, Hanming Gu, Feng Li, Hongyou Duan, Xiaobo Hu, and Kai Lin (2020). "Deep learning for irregularly and regularly missing data reconstruction", Scientific Reports, 10, doi: 10.1038/s41598-020-59801-x.
+
+The corresponding LaTeX bibliography file (LaTeX.bib) is also enclosed for your convenience.
+
+Copyright (C) 2021 Xintao Chai's Team 

@@ -1,0 +1,2 @@
+module_dir = 'G:/BigData/AI_SeismicFaciesClassification'
+raw_data_dir = 'D:/BigData/SeismicDataField/SEG2020MLInterpretationWorkshop'
